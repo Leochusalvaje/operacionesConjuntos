@@ -1,7 +1,7 @@
 venv/
 .env/
 .venv/
-.docx
+*.docx
 .vscode/
 *.log
 *.tmp
