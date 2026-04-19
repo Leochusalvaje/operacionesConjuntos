@@ -1,0 +1,10 @@
+venv/
+.env/
+.venv/
+.docx
+.vscode/
+*.log
+*.tmp
+*.swp
+.env
+.env.*
