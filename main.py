@@ -1,14 +1,8 @@
-from pprint import pprint
-
-
-conjunto_vacio = []
-
 class Conjunto:
     def __init__(self,universo,conjuntoA,conjuntoB):
         self.universo=universo
         self.conjuntoA=conjuntoA
         self.conjuntoB=conjuntoB
-        self.conjuntoVacio=conjunto_vacio
 
     def union(self):
         conjunto_union=[]
